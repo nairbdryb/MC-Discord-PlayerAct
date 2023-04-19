@@ -1,0 +1,4 @@
+DISCORD_WEBHOOK = https://discord.com/api/webhooks/123456789/abcdefghijklmnopqrstuvwxyz
+RCON_PASSWORD = password123456789
+RCON_IP = 123.456.789.01
+RCON_PORT = 25575
