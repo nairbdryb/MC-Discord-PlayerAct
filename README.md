@@ -15,7 +15,11 @@ This bot is a discord bot that allows your discord members to see when players j
 - Set up a cron job that will run the main.py script with python
 
 ## .env File
+
 DISCORD_WEBHOOK: Discord webhook bot will post to.
+
 RCON_PASSWORD: Password configured in your server config file.
+
 RCON_IP: Ip of your mc server.
+
 RCON_PORT: Rcon port specified in your server config file. This may be different depending on port forwarding rules
